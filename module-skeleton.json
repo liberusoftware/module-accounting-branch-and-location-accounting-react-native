@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-branch-and-location-accounting-react-native",
+  "capabilityKey": "liberusoftware/module-accounting-branch-and-location-accounting",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-accounting-branch-and-location-accounting-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/accounting/nextjs/branch-and-location-accounting.md",
+  "presentationPlan": "projects/accounting/react-native/branch-and-location-accounting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
